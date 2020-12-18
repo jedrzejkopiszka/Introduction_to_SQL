@@ -1,5 +1,5 @@
 --SQL part 6. Basic subqueries
-/*
+
 --1. Surnames, jobs of those who work in the same department as Johnson (don't display him)
 SELECT surname, job
 FROM employees
@@ -72,7 +72,7 @@ FROM employees
 WHERE job = 'PROFESSOR'
 GROUP  BY EXTRACT(YEAR FROM hire_date)
 
-*/
+
 --9. Department with highest salary (take into accout add_salary as salary) - DOES NOT WORK
 
 SELECT departments.dept_name, SUM(employees.salary + COALESCE(employees.add_salary, 0))
