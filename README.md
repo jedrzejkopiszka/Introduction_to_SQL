@@ -8,5 +8,5 @@ Tasks for "Database systems" course
 1. [Join - INNER, OUTER](https://github.com/jedrzejkopiszka/Introduction_to_SQL/blob/main/join.sql)
 1. [CTE - WITH, FETCH](https://github.com/jedrzejkopiszka/Introduction_to_SQL/blob/main/cte.sql)
 1. [Subqueries](https://github.com/jedrzejkopiszka/Introduction_to_SQL/blob/main/subqueries.sql)
-1. [Appending tables](https://github.com/jedrzejkopiszka/Introduction_to_SQL/blob/main/new_data.sql)
-1. [Data definiton language part.1](https://github.com/jedrzejkopiszka/Introduction_to_SQL/blob/main/ddl_1.sql)
+1. [Appending tables, modifying and deleting existing data - INSERT, UPDATE, SET, DELETE](https://github.com/jedrzejkopiszka/Introduction_to_SQL/blob/main/new_data.sql)
+1. [Data definiton language part.1 - CREATE TABLE, INSERT INTO, ALTER, DROP](https://github.com/jedrzejkopiszka/Introduction_to_SQL/blob/main/ddl_1.sql)
