@@ -12,6 +12,6 @@ Tasks for "Database systems" course
 1. [Data definiton language part.1 - CREATE TABLE, INSERT INTO, ALTER, DROP](https://github.com/jedrzejkopiszka/Introduction_to_SQL/blob/main/ddl_1.sql)
 
 ### Comming soon:
-1. DDL oart. 2
+1. DDL part. 2
 1. Intro to transactions
 1. Concurrency management techniques
